@@ -1,7 +1,9 @@
 ---
 title: Privacy Notice
 ---
-<img src="logo.png" alt="Apex Automations" width="200">
+<div style="text-align: center;">
+  <img src="logo.png" alt="Apex Automations" width="200">
+</div>
 
 # Privacy Notice — Data We Hold About Your Business
 
