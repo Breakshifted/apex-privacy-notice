@@ -1,6 +1,7 @@
 ---
 title: Privacy Notice
 ---
+![Apex Automations](logo.png)
 
 # Privacy Notice — Data We Hold About Your Business
 
